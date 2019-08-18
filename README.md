@@ -1,10 +1,7 @@
 ## OKD in the IBM Cloud
 
 #### Install files
-
 This repository contains the installation files to install OKD in the IBM Cloud.
-
-<br>
 
 #### Documentation
 
