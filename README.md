@@ -1,23 +1,31 @@
-# Instructions to install Red Hat OKD in the IBM Cloud using Terraform scripts
 
-OKD on IBM Cloud
+<p align="center">
+  <img src="./images/okdOnibm2.png?raw=true" alt="OKDinIBM" width="700" height="370">
+</p>
 
-Install files
+<br>
+
+## OKD in the IBM Cloud
+
+#### Install files
 
 This repository contains the installation files to install OKD in the IBM Cloud.
 
-Documentation
+<br>
 
-Refer to this site for detailed documentation for installing OKD in the IBM Cloud:
+#### Documentation
 
-Overview
+Refer to this [site](https://pages.github.ibm.com/hc-coc/okd-docs/) for detailed documentation for installing OKD in the IBM Cloud:
 
-A combination of terraform files and bash scripts perform the necessary tasks to provision virtual machines and install OKD in the IBM Cloud.
+#### Overview
 
-User Notice
+A combination of terraform files and bash scripts perform the necessary tasks to provision virtual machines and install OKD in the IBM Cloud.  
 
-This installation requires the use of the Hashicorp Terraform program. The "terraform" program is used from a terminal or command prompt.
+#### User Notice
 
-An IBM Cloud account is also required sinceJM this is the target cloud environmewnt. Creation of the environment, virtual machine(s) along with installation of the OKD software will incur charges to your IBM Cloud account.
+This installation requires the use of the Hashicorp Terraform program.  The "terraform" program is used from a terminal or command prompt.  
 
-CentOS will be used for the operating system when the virtual machines are created. The use of this operating system provides an open source and lower cost to deliver mechanism to assist in exploring Kubernetes orchistration.
+An IBM Cloud account is also required sinceJM this is the target cloud environmewnt.  Creation of the environment, virtual machine(s) along with installation of the OKD software will incur charges to your IBM Cloud account.
+
+CentOS will be used for the operating system when the virtual machines are created.  The use of this operating system provides an open source and lower cost to deliver mechanism to assist in exploring Kubernetes orchistration.
+
