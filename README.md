@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="./images/okdOnibm2.png?raw=true" alt="OKDinIBM" width="700" height="370">
+  <img src="https://raw.github.ibm.com/hc-coc/okd-ibmcloud/master/images/okdOnibmåç2.pnåg?token=AAMiugFRwKpP0kjQkgGct5mpVVU6ho_wks5dYkz5wA%3D%3D" alt="OKDinIBM" width="700" height="370">
 </p>
 
 <br>
