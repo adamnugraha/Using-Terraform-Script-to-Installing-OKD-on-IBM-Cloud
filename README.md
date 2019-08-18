@@ -1,10 +1,3 @@
-
-<p align="center">
-  <img src="https://raw.github.ibm.com/hc-coc/okd-ibmcloud/master/images/okdOnibmåç2.pnåg?token=AAMiugFRwKpP0kjQkgGct5mpVVU6ho_wks5dYkz5wA%3D%3D" alt="OKDinIBM" width="700" height="370">
-</p>
-
-<br>
-
 ## OKD in the IBM Cloud
 
 #### Install files
@@ -28,4 +21,3 @@ This installation requires the use of the Hashicorp Terraform program.  The "ter
 An IBM Cloud account is also required sinceJM this is the target cloud environmewnt.  Creation of the environment, virtual machine(s) along with installation of the OKD software will incur charges to your IBM Cloud account.
 
 CentOS will be used for the operating system when the virtual machines are created.  The use of this operating system provides an open source and lower cost to deliver mechanism to assist in exploring Kubernetes orchistration.
-
